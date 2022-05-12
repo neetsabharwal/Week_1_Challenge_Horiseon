@@ -32,6 +32,6 @@ THEN I find a concise, descriptive title
 
 ## Review
 
-* The URL of the deployed application: 
+* The URL of the deployed application: https://neetsabharwal.github.io/Week_1_Challenge_Horiseon/
 
-* The URL of the GitHub repository. Give the repository a unique name and include a professional README describing the project: 
+* The URL of the GitHub repository. Give the repository a unique name and include a professional README describing the project: https://github.com/neetsabharwal/Week_1_Challenge_Horiseon
